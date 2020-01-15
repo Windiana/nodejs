@@ -1,5 +1,8 @@
 
 var methods ={};
+// indentasi kurang rapih
+// setelah methods. tidak perlu pakai spasi, jadinya methods.add = 
+
 methods. add = (a, b)=>{
     hasiladd = a+b;
    return hasiladd;
